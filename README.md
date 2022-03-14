@@ -1,1 +1,3 @@
-
+- Used Emotion and Sentiment Analysis Models
+- Used React.js for frontend and Node.js for backend task
+- You can also pass the URL of the website to get sentiment and emotion of the webpage text
